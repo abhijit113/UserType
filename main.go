@@ -4,7 +4,7 @@ import "fmt"
 
 var a int
 
-type hotdog int //Declaring my own type which is hotdog and what type of values can be assigned is int
+type hotdog int //Declaring my own type which is hotdog and what type of values can be assigned is int.underlyig type is int
 var b hotdog //declaring b of type hotdog
 
 func main()  {
